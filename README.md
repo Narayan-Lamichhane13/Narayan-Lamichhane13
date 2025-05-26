@@ -29,14 +29,6 @@ I build tools that **break and defend systems**, from low-level C code to full-s
 - 🧩 **15 Puzzle Solver**  
   Solved the classic tile puzzle using optimized A* with Manhattan heuristic. Handled factorial state space with STL and priority queues in C++.
 
-- 🐚 [**CS 341 Mini Shell**](https://github.com/Narayan-Lamichhane13/sp25_cs341_nlami2/tree/main/shell)  
-  Built a fully functional shell terminal in C as part of UIUC's System Programming course.  
-  Features include:
-  - Command parsing with I/O redirection (`<`, `>`)
-  - Support for pipes (`|`) and background execution (`&`)
-  - Custom job control and signal handling
-  - Manual memory management and robust error checking
-
 ---
 
 ## 🧰 Tech Stack
